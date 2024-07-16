@@ -7,13 +7,13 @@
 
 - 🔭 My expertise are in **Machine Learning, Web development, and data analysis.**
 
-- 🌱 I’m currently learning **React js,  Deep learning Algorithms, and Data analysis**
+- 🌱 I’m currently learning **React js,  Deep learning Algorithms, and Data analysis.**
 
-- 💬 Let's talk anything about **Startups,tech, ml, dl and data science**
+- 💬 Let's talk anything about **Startups,tech, ml, dl and data science.**
 
 - 📫 How to reach me **harshitalalwani000@gmail.com**
 
-- ⚡ Fun fact **I love tto create amazing content on social media, and always up for any kind of meaningful engagement.**
+- ⚡ Fun fact: **I love creating amazing content on social media, and always up for any kind of meaningful engagement.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
