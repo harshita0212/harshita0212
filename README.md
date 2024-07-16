@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita0212&label=Profile%20views&color=0e75b6&style=flat" alt="harshita0212" /> </p>
 
-- 🔭 I’m currently working on [study buddy](https://github.com/harshita0212/studybuddy2.0.git)
+- 🔭 My expertise are in **Machine Learning, Web development, and data analysis.**
 
-- 🌱 I’m currently learning **react js, node js**
+- 🌱 I’m currently learning **React js,  Deep learning Algorithms, and Data analysis**
 
-- 💬 Ask me about **javascript**
+- 💬 Let's talk anything about **Startups,tech, ml, dl and data science**
 
 - 📫 How to reach me **harshitalalwani000@gmail.com**
 
-- ⚡ Fun fact **Love to write code and create content**
+- ⚡ Fun fact **I love tto create amazing content on social media, and always up for any kind of meaningful engagement.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
