@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=900&t=st=1702572545~exp=1702573145~hmac=d15a1b385d9f3576547dbb762a6944ecf048c711a035dd84b303d1faf7feadb6)
-<h1 align="center">Hi 👋, I'm harshita lalwani</h1>
-<h3 align="center">I am an undergrad, passionate about Data structures and development from India</h3>
+<h1 align="center">Hi 👋, I'm Harshita Lalwani</h1>
+<h3 align="center">I am currently in Third year, majoring in Computer Science and Engineering. Let's connect for any kind of meaningful engagement. </h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=900&t=st=1702571717~exp=1702572317~hmac=81b3bab45254e781482098f243bb6383833a700086ecfaa2259d3fe066313647">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita0212&label=Profile%20views&color=0e75b6&style=flat" alt="harshita0212" /> </p>
